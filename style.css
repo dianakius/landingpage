@@ -36,9 +36,6 @@ a {
   background: transparent;
   cursor: pointer;
 }
-.grid {
-  display: flex;
-}
 header {
   position: fixed;
   top: 0;
