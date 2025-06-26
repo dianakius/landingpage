@@ -192,6 +192,12 @@ nav > ul {
     margin-top: 0;
   }
 }
+.products-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 20px;
+}
 #about {
   margin-top: 50px;
   display: flex;
