@@ -152,6 +152,10 @@ nav > ul {
 }
 #products {
   margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
 
 #products .icon {
