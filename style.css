@@ -113,7 +113,7 @@ nav > ul {
     flex-direction: column;
   }
 }
-#hero {
+#home {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -123,18 +123,18 @@ nav > ul {
   margin-top: 50px;
 }
 
-#hero > h2 {
+#home > h2 {
   margin-bottom: 20px;
   word-wrap: break-word;
 }
 
-#hero input[type="email"] {
+#home input[type="email"] {
   max-width: 275px;
   width: 100%;
   padding: 5px;
 }
 
-#hero input[type="submit"] {
+#home input[type="submit"] {
   max-width: 150px;
   width: 100%;
   height: 30px;
@@ -143,13 +143,13 @@ nav > ul {
   background-color: #f1c40f;
 }
 
-#hero input[type="submit"]:hover {
+#home input[type="submit"]:hover {
   background-color: orange;
   transition: background-color 1s;
 }
 
 @media (max-width: 650px) {
-  #hero {
+  #home {
     margin-top: 120px;
   }
 }
