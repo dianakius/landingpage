@@ -337,7 +337,7 @@ footer > span {
 }
 
 .cabin {
-  background-color: red;
+  background-color: mintcream;
   width: 20%;
   height: 20%;
   position: absolute;
@@ -383,10 +383,10 @@ footer > span {
     transform: rotate(0deg);
   }
   25% {
-    background-color: yellow;
+    background-color: lightcoral;
   }
   50% {
-    background-color: purple;
+    background-color: lightblue;
   }
   100% {
     transform: rotate(-360deg);
